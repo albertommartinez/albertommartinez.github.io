@@ -1,0 +1,62 @@
+header {
+	
+}
+
+header #logo {
+	width:201px;
+	height:146px;
+}
+
+header #titulo {
+	font-family: verdana;
+	font-size: 30px;
+	display: inline;
+}
+
+nav {
+	background-color:#58D68D;
+}
+
+nav ul {
+	color: #ffffff;
+	font-family: verdana;
+	font-size: 20px;
+}
+
+nav ul li {
+	
+	display: inline
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+nav ul li a:hover {
+	/*text-decoration: underline;*/
+	text-shadow: 2px 2px 2px #0000ff;
+}
+
+nav ul li a:visited {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+#centro {
+	text-align: center;
+}
+
+
+
+footer {
+	background-color:#58D68D;
+	color:#ffffff;
+	text-align: center;
+}
+
+footer #github {
+	width:20px;
+	height:20px;
+	margin-top:5px;
+} 
