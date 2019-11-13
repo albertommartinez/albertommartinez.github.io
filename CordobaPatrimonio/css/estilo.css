@@ -1,0 +1,49 @@
+body {
+	margin: 0px;
+	padding-top:20px;
+}
+
+header {
+	text-align: center;
+}
+
+header img[id="logo"] {
+	text-align: left;
+	border: 15px solid #000000;
+	border-radius: 10px;
+	background: #000000;
+	width: 33vw;
+}
+
+nav {
+	background: #f25c00;
+	
+}
+
+nav ul {
+	
+}
+
+nav ul li {
+	display: inline;
+	
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 15px;
+	margin-left:5px;
+}
+
+nav ul li a:hover {
+	text-decoration: none;
+	color: #000000;
+	font-size: 15px;
+	margin-left:5px;
+}
+
+
+
+
+
