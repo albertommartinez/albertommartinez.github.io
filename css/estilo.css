@@ -1,3 +1,7 @@
+body {
+	margin: 0px;
+}
+
 header {
 	
 }
@@ -74,12 +78,19 @@ main h2 {
 
 footer {
 	background-color:#58D68D;
-	color:#ffffff;
-	text-align: center;
+	color:#000000;
+	text-align: left;
+	position: absolute;
+	bottom: 0px;
+	width:100%;
+	padding:3px;
 }
 
-footer #github {
+footer #contacto {
+	display: inline;
 	width:20px;
 	height:20px;
 	margin-top:5px;
+	margin:5px;
+	color:#ffffff;
 } 
