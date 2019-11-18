@@ -51,6 +51,10 @@ nav ul li a:visited {
 	text-align: center;
 }
 
+main {
+	marging-bottom:15px;	
+}
+
 main a {
 	text-decoration: none;
 	color:#ff8000;
