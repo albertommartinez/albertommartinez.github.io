@@ -52,7 +52,8 @@ nav ul li a:visited {
 }
 
 main {
-	margin-bottom:15px;	
+	margin-bottom:15px;
+	height:100%;
 }
 
 main a {
