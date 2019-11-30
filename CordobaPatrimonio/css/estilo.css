@@ -47,6 +47,14 @@ main {
 	margin-left:20px;
 }
 
+main a {
+	text-decoration: none;	
+}
+
+main a:visited {
+	text-decoration: none;	
+}
+
 main section article .foto {
 	border: 2px solid #000000;
 	border-radius: 4px;
