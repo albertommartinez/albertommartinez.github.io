@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Alberto Miguel Martinez Jimenez RSS</title>
+    <link>https://github.com/albertommartinez/albertommartinez.github.io</link>
+    <description>RSS Alberto Martinez 1DAW</description>
+
+    <item>
+      <title>Cordoba Patrimonio</title>
+      <link>https://github.com/albertommartinez/albertommartinez.github.io/tree/master/CordobaPatrimonio</link>
+      <description>Web didactica sobre El patrimonio arquitectonico de Cordoba(España)</description>
+      <author>Alberto Miguel Martinez Jimenez</author>
+      <pubDate>23/03/2020</pubDate>
+    </item>
+  </channel>
+</rss>
