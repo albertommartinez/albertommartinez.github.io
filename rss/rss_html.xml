@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+  <channel>
+    <title>Alberto Miguel Martinez Jimenez RSS</title>
+    <description>RSS Alberto Martinez 1DAW</description>
+
+    <item>
+      <title>Cordoba Patrimonio</title>
+      <link>https://github.com/albertommartinez/albertommartinez.github.io/tree/master/CordobaPatrimonio</link>
+      <description>Web didactica sobre El patrimonio arquitectonico de Cordoba(España)</description>
+    </item>
+
+     <item>
+    <title>Prueba1</title>
+    <link>https://github.com/albertommartinez/albertommartinez.github.io/tree/master/CordobaPatrimonio</link>
+    <description>prueba1</description>
+  </item>
+  </channel>
+</rss>
